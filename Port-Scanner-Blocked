@@ -1,5 +1,5 @@
 # Unsolicited Port Probing - Permanent Blocklist
 
-# These 2: Rapid scanning all ports, switched IP in subnet once one was blocked
+# These 2: Rapid coordinated scanning all ports, switched IP in subnet once one was blocked
 216.180.246.0/24
 62.210.142.0/24
